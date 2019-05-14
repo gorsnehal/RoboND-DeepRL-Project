@@ -8,11 +8,13 @@ This project is based on the Nvidia open source project "jetson-reinforcement" d
 
 ## My Output on above two goals
 
+* Goal 1 Output Recording
 ![Goal1](https://github.com/gorsnehal/RoboND-DeepRL-Project/blob/master/output/Objective1-Recording.gif)
 
+* Goal 2 Output Recording
 ![Goal2](https://github.com/gorsnehal/RoboND-DeepRL-Project/blob/master/output/Objective2-Recording.gif)
 
-## Please read '/report/Deep_ReInforcement_Learning.pdf' for my implementation / configuration
+* Please read '/report/Deep_ReInforcement_Learning.pdf' for my implementation
 
 ## Please install following dependencies
 * Install PyTorch: ```conda install -c pytorch pytorch```
