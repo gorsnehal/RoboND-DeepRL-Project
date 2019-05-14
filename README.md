@@ -6,14 +6,15 @@ This project is based on the Nvidia open source project "jetson-reinforcement" d
 1. Have any part of the robot arm touch the object of interest, with at least a 90% accuracy.
 2. Have only the gripper base of the robot arm touch the object, with at least a 80% accuracy.
 
-# My Output on above two goals
+## My Output on above two goals
 
 ![Goal1](https://github.com/gorsnehal/RoboND-DeepRL-Project/blob/master/output/Objective1-Recording.gif)
+
 ![Goal2](https://github.com/gorsnehal/RoboND-DeepRL-Project/blob/master/output/Objective2-Recording.gif)
 
-# Please read '/report/Deep_ReInforcement_Learning.pdf' for my implementation / configuration
+## Please read '/report/Deep_ReInforcement_Learning.pdf' for my implementation / configuration
 
-# Please install following dependencies
+## Please install following dependencies
 * Install PyTorch: ```conda install -c pytorch pytorch```
 * Install libignition: ```sudo apt-get install libignition-math2-dev```
 
